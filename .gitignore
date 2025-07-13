@@ -269,8 +269,8 @@ ServiceFabricBackup/
 *.ndf
 
 #TXT
-*.txt
-*.pdf
+
+
 
 
 
