@@ -3,5 +3,5 @@ cambio en linea 1
 =======
 Linea nueva prueba 1
 Nueva linea de prueba
-Este es un nuevo cambio en la rama de prueba 11
+Este es un nuevo cambio en la rama de prueba para la capacitacion de git
 
